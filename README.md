@@ -1,7 +1,5 @@
 ﻿# ice_thickness_monitor
 
-### Ice Thickness Estimator
-
 ## Project Overview 
 
 A device designed to monitor winter temperatures and estimate ice thickness of nearby lakes, helping prevent accidents caused by venturing onto unsafe ice surfaces.
