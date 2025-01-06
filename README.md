@@ -1,12 +1,12 @@
 ﻿# ice_thickness_monitor
 
-###Ice Thickness Estimator###
+### Ice Thickness Estimator
 
-##Project Overview##
+## Project Overview 
 
 A device designed to monitor winter temperatures and estimate ice thickness of nearby lakes, helping prevent accidents caused by venturing onto unsafe ice surfaces.
 
-##Current Capabilities##
+## Current Capabilities
 
 - Temperature Measurement: Captures temperature readings using a DHT11 temperature sensor.
 
