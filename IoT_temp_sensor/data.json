@@ -1,0 +1,29 @@
+{
+    "data" :[
+        {
+            "msg": 1,
+            "temp": 10,
+            "humidity": 11
+        },
+        {
+            "msg": 2,
+            "temp": 20,
+            "humidity": 22
+        },
+        {
+            "msg": 3,
+            "temp": 30,
+            "humidity": 33
+        },
+        {
+            "msg": 4,
+            "temp": 40,
+            "humidity": 44
+        },
+        {
+            "msg": 5,
+            "temp": 50,
+            "humidity": 55
+        }
+    ]
+}
